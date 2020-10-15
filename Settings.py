@@ -1,4 +1,4 @@
-from enum import Enum
+﻿from enum import Enum
 import telebot
 
 class States(Enum):
@@ -14,8 +14,8 @@ class States(Enum):
     S_FOOD = '5'
     S_CINEMA_YES = '6'
 
-y_token = 'AIzaSyDx7DF8Ti7hS25eArrqOYUZJIWxz8fD1jY'
-token = '1377498450:AAEyKxe5ZfwjrNWW-rc6Na2HGj7dDKo8VeM'
+y_token = '#####'
+token = '#####'
 
 stickers = {1:'CAACAgIAAxkBAAEBJMVfKSa4sXF8U5Cr6S5g9-5VBaV8jwACGQEAAtLdaQVS6DvPqWaenxoE',
             2:'CAACAgIAAxkBAAEBJMdfKSbcR4hiQgRsQ9HivZ9oK6qhzAACFwEAAtLdaQXeYl54aAbKphoE',
